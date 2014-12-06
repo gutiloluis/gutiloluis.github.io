@@ -1,13 +1,13 @@
 body {
-    background-color: #a6ea12
+    background-color: #a6ea12;
 }
 
 h1 {
-    font-family: cursive
-    color: red
+    font-family: Arial;
+    color: red;
 }
 
 p {
-    font-family: Palatino Linotype
-    font-size: 20px
+    font-family: Verdana;
+    font-size: 20px;
 }
