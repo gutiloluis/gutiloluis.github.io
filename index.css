@@ -1,5 +1,6 @@
 
 body {
+    border: 2px solid black;
     font-family: Ubuntu;
     background-color: white;
 }
@@ -12,12 +13,20 @@ p {
     font-size: 1em;
 }
 
+ol {
+    color: red;
+}
+
+ul {
+    color: green;
+}
+
 img {
     width:100px;
 }
 
 table, td {
-    border: 1px #70b8ff solid;
+    border: 1px black solid;
     width: 500px;
     text-align: center;
 }
