@@ -1,13 +1,39 @@
+
 body {
-    background-color: #a6ea12;
+    font-family: Ubuntu;
+    background-color: white;
 }
 
 h1 {
-    font-family: Arial;
-    color: red;
+    text-align: center;
 }
 
 p {
-    font-family: Verdana;
-    font-size: 20px;
+    font-size: 1em;
+}
+
+img {
+    width:100px;
+}
+
+table, td {
+    border: 1px #70b8ff solid;
+    width: 500px;
+    text-align: center;
+}
+
+div {
+    background-color: #800000;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 50px;
+    width: 145px;
+    margin: auto;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+    font-size: 2.2em;
 }
