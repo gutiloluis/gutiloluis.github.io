@@ -1,0 +1,75 @@
+
+body {
+    border: 2px solid black;
+    font-family: Ubuntu;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+}
+
+ol {
+    color: red;
+}
+
+ul {
+    color: green;
+}
+
+img {
+    margin: 8px;
+    border: 2px black solid;
+    width:100px;
+}
+
+td {
+    border: 1px black solid;
+    width: 500px;
+    text-align: center;
+}
+
+table {
+    border: 1px black solid;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+div {
+    background-color: #800000;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 50px;
+    width: 145px;
+    margin: auto;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+    font-size: 2.2em;
+}
+
+a:hover {
+    color: #cc0000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#ee9a00;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+/*Recordar lo de div > p (el hijo mas proximo) y lo de p:first-child y p:nth-child(n)
